@@ -4,8 +4,6 @@ Git Command Quick Reference
 1. **git clone**
    - **Purpose:** Duplicate a repository from an existing source.
    - **Args:** Repository URL (and, optionally, a directory name).
-   - **Example:**
-     - `git clone https://github.com/user/repository.git`
 
 2. **git branch**
    - **Purpose:** Create, list, or delete branches.
